@@ -1,0 +1,15 @@
+D:\Miguel\Programas\Calculador_Examenes3\bin\Debug\net6.0\Calculador_Examenes3.exe
+D:\Miguel\Programas\Calculador_Examenes3\bin\Debug\net6.0\Calculador_Examenes3.deps.json
+D:\Miguel\Programas\Calculador_Examenes3\bin\Debug\net6.0\Calculador_Examenes3.runtimeconfig.json
+D:\Miguel\Programas\Calculador_Examenes3\bin\Debug\net6.0\Calculador_Examenes3.dll
+D:\Miguel\Programas\Calculador_Examenes3\bin\Debug\net6.0\ref\Calculador_Examenes3.dll
+D:\Miguel\Programas\Calculador_Examenes3\bin\Debug\net6.0\Calculador_Examenes3.pdb
+D:\Miguel\Programas\Calculador_Examenes3\obj\Debug\net6.0\Calculador_Examenes3.csproj.AssemblyReference.cache
+D:\Miguel\Programas\Calculador_Examenes3\obj\Debug\net6.0\Calculador_Examenes3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Miguel\Programas\Calculador_Examenes3\obj\Debug\net6.0\Calculador_Examenes3.AssemblyInfoInputs.cache
+D:\Miguel\Programas\Calculador_Examenes3\obj\Debug\net6.0\Calculador_Examenes3.AssemblyInfo.cs
+D:\Miguel\Programas\Calculador_Examenes3\obj\Debug\net6.0\Calculador_Examenes3.csproj.CoreCompileInputs.cache
+D:\Miguel\Programas\Calculador_Examenes3\obj\Debug\net6.0\Calculador_Examenes3.dll
+D:\Miguel\Programas\Calculador_Examenes3\obj\Debug\net6.0\ref\Calculador_Examenes3.dll
+D:\Miguel\Programas\Calculador_Examenes3\obj\Debug\net6.0\Calculador_Examenes3.pdb
+D:\Miguel\Programas\Calculador_Examenes3\obj\Debug\net6.0\Calculador_Examenes3.genruntimeconfig.cache
