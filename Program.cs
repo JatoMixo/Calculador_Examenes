@@ -108,7 +108,7 @@ namespace Calculador_Examenes3{
 
             Console.ForegroundColor = System.ConsoleColor.DarkBlue;
             Console.WriteLine("----------------------------------------");
-            Console.Title = "JatoMixo Console";
+            Console.Title = "JatoMixo: Calculador de exámenes";
             Console.ForegroundColor = System.ConsoleColor.Green;
             Console.WindowWidth = 40;
         }
