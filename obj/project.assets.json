@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Miguel\\Programas\\Calculador_Examenes3\\Calculador_Examenes3.csproj",
+      "projectUniqueName": "D:\\Miguel\\Programas\\_Finished_NoContinue\\Calculador_Examenes3_Github\\Calculador_Examenes3.csproj",
       "projectName": "Calculador_Examenes3",
-      "projectPath": "D:\\Miguel\\Programas\\Calculador_Examenes3\\Calculador_Examenes3.csproj",
+      "projectPath": "D:\\Miguel\\Programas\\_Finished_NoContinue\\Calculador_Examenes3_Github\\Calculador_Examenes3.csproj",
       "packagesPath": "C:\\Users\\jatom\\.nuget\\packages\\",
-      "outputPath": "D:\\Miguel\\Programas\\Calculador_Examenes3\\obj\\",
+      "outputPath": "D:\\Miguel\\Programas\\_Finished_NoContinue\\Calculador_Examenes3_Github\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jatom\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.116\\RuntimeIdentifierGraph.json"
       }
     }
   }

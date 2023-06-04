@@ -111,6 +111,10 @@ namespace Calculador_Examenes3{
             Console.Title = "JatoMixo Console";
             Console.ForegroundColor = System.ConsoleColor.Green;
             Console.WindowWidth = 40;
+
+            Console.ForegroundColor = System.ConsoleColor.Red;
+            Console.WriteLine("ADVERTENCIA: Los decimales deben ser introducidos usando una coma (,) y no un punto (.)");
+            Console.ForegroundColor = System.ConsoleColor.Green;
         }
     }
 }
